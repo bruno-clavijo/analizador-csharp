@@ -1,0 +1,5 @@
+D:\Coppel\analizador-csharp-1.0.0\analizador-csharp-1.0.0\bin\Debug\analizador-csharp-1.0.0.exe
+D:\Coppel\analizador-csharp-1.0.0\analizador-csharp-1.0.0\bin\Debug\analizador-csharp-1.0.0.pdb
+D:\Coppel\analizador-csharp-1.0.0\analizador-csharp-1.0.0\obj\Debug\analizador-csharp-1.0.0.csprojAssemblyReference.cache
+D:\Coppel\analizador-csharp-1.0.0\analizador-csharp-1.0.0\obj\Debug\analizador-csharp-1.0.0.exe
+D:\Coppel\analizador-csharp-1.0.0\analizador-csharp-1.0.0\obj\Debug\analizador-csharp-1.0.0.pdb
